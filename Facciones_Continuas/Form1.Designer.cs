@@ -111,8 +111,7 @@
             this.label1.Size = new System.Drawing.Size(94, 19);
             this.label1.TabIndex = 5;
             this.label1.Text = "NUMERO 1";
-            //this.label1.Click += new System.EventHandler(this.label1_Click);
-            // 
+             // 
             // label2
             // 
             this.label2.AutoSize = true;
